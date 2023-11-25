@@ -7,7 +7,7 @@ from babel.numbers import format_currency
 from io import BytesIO
 sns.set(style='dark')
 
-all_df = pd.read_csv('/content/Semua Data.csv')
+all_df = pd.read_csv('pyhton/Semua Data.csv')
 
 # =================== Header
 st.header('Visualisasi Sensus Dusun Kerdon')
@@ -202,7 +202,7 @@ st.pyplot(fig)
 
 
 # Load your data
-new_df = pd.read_csv('/content/data Baru.csv')
+new_df = pd.read_csv('pyhton/data Baru.csv')
 
 #============================================================================================== Perbandingan pendidikan dan pekerjaan   
 st.subheader("Perbandingan pekerjaan dan pendidikan")
