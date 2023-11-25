@@ -1,0 +1,131 @@
+No,Nama KK,Umur,Jenis Kelamin,Pendidikan,Pekerjaan
+1,Suripto,18 s/d 56,Perempuan,Sd,Petani
+2,Suradi,18 s/d 56,Laki Laki,Sd,Petani
+3,Sukino,7 s/d 18,Laki Laki,Sd,Lain-Lain
+4,Ramlan,18 s/d 56,Laki Laki,SMP,Wirausaha
+5,Rudi,18 s/d 56,Laki Laki,Sd,Petani
+6,Sastro,>56,Laki Laki,Sd,Petani
+7,Tresna,7 s/d 18,Perempuan,SMA/K,Lain-Lain
+8,Nyoto,18 s/d 56,Laki Laki,SMP,Petani
+9,Fx. Suyatno,18 s/d 56,Laki Laki,SMP,PNS
+10,Winarno,18 s/d 56,Laki Laki,SMA/K,Wirausaha
+11,Mardilah,18 s/d 56,Laki Laki,Sd,Lain-Lain
+12,Hendarto,18 s/d 56,Perempuan,Sd,Wirausaha
+13,safari,18 s/d 56,Perempuan,Sd,Petani
+14,Ahmad,18 s/d 56,Laki Laki,SMP,Wirausaha
+15,muji,18 s/d 56,Laki Laki,Sd,Petani
+16,Romi,18 s/d 56,Perempuan,SMA/K,Wirausaha
+17,rudi,18 s/d 56,Laki Laki,SMA/K,Wirausaha
+18,sukirno,>56,Laki Laki,SMP,Petani
+19,Feri,7 s/d 18,Laki Laki,SMP,Wirausaha
+20,wartinah,18 s/d 56,Perempuan,SMA/K,Petani
+21,sigit,18 s/d 56,Perempuan,SMA/K,Wirausaha
+22,edi purwanto,18 s/d 56,Laki Laki,Sd,Petani
+23,ibu sumarti,18 s/d 56,Laki Laki,Sd,Petani
+24,Miskamto,7 s/d 18,Perempuan,Sd,Petani
+25,Kiki,18 s/d 56,Laki Laki,Sd,Buruh
+26,Solikhol,18 s/d 56,Perempuan,SMP,Buruh
+27,sutiman,>56,Laki Laki,SMP,PNS
+28,somadi,18 s/d 56,Laki Laki,Sd,Petani
+29,Hudan,18 s/d 56,Perempuan,SMA/K,Wirausaha
+30,Rasiem,18 s/d 56,Perempuan,Sd,Petani
+31,sugiem,>56,Perempuan,Sd,Petani
+32,mulyono,18 s/d 56,Laki Laki,SMA/K,Wirausaha
+33,budi,18 s/d 56,Perempuan,SMA/K,Wirausaha
+34,tugimin,>56,Laki Laki,Sd,Petani
+35,wardi,18 s/d 56,Perempuan,SMA/K,Wirausaha
+36,subiyanto,18 s/d 56,Laki Laki,SMP,Lain-Lain
+37,warsono,18 s/d 56,Laki Laki,Sd,Petani
+38,ardayanto,18 s/d 56,Laki Laki,SMP,Wirausaha
+39,diki,18 s/d 56,Laki Laki,SMA/K,Wirausaha
+40,bambang,18 s/d 56,Laki Laki,Kuliah,Lain-Lain
+41,sukarso,18 s/d 56,Perempuan,SMP,Petani
+42,Sigit,18 s/d 56,Perempuan,Kuliah,Lain-Lain
+43,Suyaman,18 s/d 56,Laki Laki,SMA/K,Petani
+44,sukiran,>56,Laki Laki,Sd,PNS
+45,Rudiyanto,18 s/d 56,Perempuan,SMA/K,Buruh
+46,suminem,18 s/d 56,Laki Laki,Sd,Petani
+47,Ngatilah,18 s/d 56,Laki Laki,SMP,Petani
+48,Hadi Suprapto,7 s/d 18,Perempuan,Sd,Petani
+49,Sutini,>56,Perempuan,Sd,Lain-Lain
+50,Budiyana,18 s/d 56,Laki Laki,SMA/K,Petani
+51,Paryanto,18 s/d 56,Perempuan,SMA/K,Petani
+52,Murwanto,18 s/d 56,Laki Laki,SMP,Petani
+53,Sukinem,>56,Perempuan,Sd,Petani
+54,Dadi Sarsono,>56,Laki Laki,SMP,Lain-Lain
+55,Sumirah,>56,Laki Laki,Sd,Petani
+56,Rizky Sudarmi,18 s/d 56,Laki Laki,SMP,Buruh
+57,Agung Priyanto,18 s/d 56,Laki Laki,SMA/K,Petani
+58,Rubiyantoro,18 s/d 56,Laki Laki,SMA/K,Petani
+59,Nuvikari,0-6,Perempuan,SMP,Buruh
+60,Endang Suparmi,>56,Perempuan,Sd,Petani
+61,Subandi,7 s/d 18,Laki Laki,SMA/K,Lain-Lain
+62,Suyono,18 s/d 56,Perempuan,SMP,Petani
+63,Slamet,18 s/d 56,Laki Laki,SMP,Petani
+64,Hartono,>56,Laki Laki,SMP,Petani
+65,Sumarji,>56,Laki Laki,Sd,Petani
+66,Sumarso,>56,Laki Laki,Sd,Petani
+67,Siska,18 s/d 56,Laki Laki,SMP,Lain-Lain
+68,suyati,18 s/d 56,Laki Laki,Sd,Petani
+69,Sri Astuti,7 s/d 18,Perempuan,Sd,Petani
+70,Kartosuwito,>56,Laki Laki,Sd,Petani
+71,Barni,7 s/d 18,Perempuan,Sd,Petani
+72,Marmin,18 s/d 56,Laki Laki,SMP,Petani
+73,Supartini,>56,Perempuan,SMA/K,PNS
+74,Supriyadi,18 s/d 56,Perempuan,Sd,Petani
+75,Jumadi Abdulah,18 s/d 56,Laki Laki,SMP,Petani
+76,MArgono,18 s/d 56,Laki Laki,SMP,Petani
+77,Tugiyarno,>56,Laki Laki,Sd,Petani
+78,Siswanto,18 s/d 56,Laki Laki,Sd,Petani
+79,Afian,18 s/d 56,Laki Laki,SMA/K,PNS
+80,Heri Sutrisno,18 s/d 56,Laki Laki,SMA/K,Lain-Lain
+81,carito,18 s/d 56,Laki Laki,SMA/K,Petani
+82,supadi,18 s/d 56,Perempuan,Sd,Petani
+83,pak,18 s/d 56,Laki Laki,SMA/K,Buruh
+84,Lasiem,>56,Laki Laki,Sd,PNS
+85,Widodo,18 s/d 56,Laki Laki,SMP,Lain-Lain
+86,Hadi Sutrisno,>56,Perempuan,Sd,Petani
+87,Ibu Sukini,>56,Perempuan,Sd,Petani
+88,Suminem,>56,Perempuan,Sd,Petani
+89,Ibu Tukinah,>56,Perempuan,Sd,Petani
+90,Ibu Tumiyati,>56,Perempuan,SMP,Lain-Lain
+91,Lugiyati,>56,Perempuan,Sd,Petani
+92,Ngatinah,>56,Perempuan,Sd,Petani
+93,suraji,>56,Laki Laki,Sd,Petani
+94,sumarti,18 s/d 56,Laki Laki,Kuliah,PNS
+95,Sukrisno,18 s/d 56,Laki Laki,SMA/K,Petani
+96,wiyono,>56,Laki Laki,Sd,Petani
+97,paryadi,>56,Perempuan,SMP,Petani
+98,tugiman,7 s/d 18,Laki Laki,SMP,Petani
+99,pujiyanto,18 s/d 56,Perempuan,SMP,Petani
+100,wahyudi antoro,0-6,Perempuan,SMP,Petani
+101,sugiarjo,>56,Laki Laki,Sd,Petani
+102,hartono,18 s/d 56,Laki Laki,SMP,Petani
+103,ngatini,18 s/d 56,Laki Laki,SMP,Petani
+104,sukartoyo,>56,Laki Laki,Sd,Petani
+105,marnorejo,>56,Laki Laki,Sd,Petani
+106,lastini,7 s/d 18,Perempuan,SMP,Petani
+107,wasinah,>56,Perempuan,Sd,Petani
+108,sri setiti,18 s/d 56,Perempuan,SMA/K,Buruh
+109,aldia destian,18 s/d 56,Laki Laki,Kuliah,Wirausaha
+110,suhartoyo,18 s/d 56,Laki Laki,Kuliah,Lain-Lain
+111,nanang triyanto,18 s/d 56,Laki Laki,Kuliah,Wirausaha
+112,sriyanto,18 s/d 56,Laki Laki,SMA/K,Petani
+113,Suripto,18 s/d 56,Laki Laki,Sd,Petani
+114,Sulardi,>56,Laki Laki,Sd,Buruh
+115,Sukamto,18 s/d 56,Laki Laki,Sd,Petani
+116,Nanang Maulana,18 s/d 56,Perempuan,SMA/K,Petani
+117,Fendi Triyanto,18 s/d 56,Laki Laki,SMA/K,Buruh
+118,Susilo,7 s/d 18,Laki Laki,Sd,Petani
+119,sukardi,18 s/d 56,Laki Laki,Sd,Buruh
+120,suyadi,18 s/d 56,Laki Laki,Sd,Petani
+121,Dwi Bayu P,7 s/d 18,Perempuan,SMP,Buruh
+122,Agung Prasetyo,18 s/d 56,Perempuan,SMA/K,Buruh
+123,samtohadi,>56,Laki Laki,Sd,Petani
+124,marjono,18 s/d 56,Laki Laki,Sd,Petani
+125,R. Lesmono Putro,18 s/d 56,Laki Laki,SMA/K,Lain-Lain
+126,sakiyo,>56,Laki Laki,Sd,Petani
+127,sagiyo,>56,Laki Laki,SMP,Buruh
+128,sugimin,>56,Laki Laki,Sd,Petani
+129,Warsilah,>56,Perempuan,SMP,Petani
+130,suyatno,18 s/d 56,Laki Laki,SMA/K,Lain-Lain
