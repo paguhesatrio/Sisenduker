@@ -205,7 +205,7 @@ st.pyplot(fig)
 new_df = pd.read_csv('pyhton/data Baru.csv')
 
 #============================================================================================== Perbandingan pendidikan dan pekerjaan   
-st.subheader("Perbandingan pekerjaan dan pendidikan")
+st.subheader("Perbandingan Perbandingan antara Pekerjaan dan Pendidikan")
 
 def bayarSt(df):
     bayarSt = df.groupby(["Pendidikan", "Pekerjaan"]) ["Pekerjaan"].size().reset_index(name='Jumlah')
@@ -249,7 +249,7 @@ bayarSt_df = bayarSt_df.sort_values(by='Jumlah', ascending=False)
 plt.figure(figsize=(16, 8))
 sns.barplot(x='Pekerjaan', y='Jumlah', hue='Umur', data=bayarSt_df)
 
-plt.title("Grafik Pembayaran di Setiap Umur dan Pekerjaan", fontsize=15)
+plt.title("Grafik Perbandingan antara Umur dan Pekerjaan", fontsize=15)
 plt.ylabel("Jumlah")
 plt.xlabel("Pekerjaan")
 plt.xticks(fontsize=10)
