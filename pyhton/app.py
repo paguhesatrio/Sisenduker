@@ -10,7 +10,7 @@ sns.set(style='dark')
 all_df = pd.read_csv('pyhton/Semua Data.csv')
 
 # =================== Header
-st.header('Visualisasi Sensus Dusun Kerdon')
+st.header('Visualisasi Data Sensus Dusun Kerdon Feb 2023')
 st.markdown("[Link Hasil Analisis Sensus Dusun Kerdon](https://colab.research.google.com/drive/16yIYD1ChjmQfnfoDDtWjpRfrwDZZMj91?usp=sharing)", unsafe_allow_html=True)
 # =================== Header
 
@@ -263,7 +263,13 @@ st.pyplot(plt)
 
 with st.sidebar:
     # Menambahkan logo perusahaan
-    st.image("https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png")
+    st.image("[https://sisenduker.000webhostapp.com/img/logo.png](https://sisenduker.000webhostapp.com)", unsafe_allow_html=True)
+    st.markdown("[Home](https://sisenduker.000webhostapp.com/)", unsafe_allow_html=True)
+    st.markdown("[Lihat Sensus](https://sisenduker.000webhostapp.com/semua.html)", unsafe_allow_html=True)
+    st.markdown("[Analisis](https://sisenduker.streamlit.app/)", unsafe_allow_html=True)
+    st.markdown("[Prediksi]( )", unsafe_allow_html=True)
+    st.markdown("[Galeri](https://sisenduker.000webhostapp.com/galeri.html)", unsafe_allow_html=True)
+    st.markdown("[Tentang Kami](https://sisenduker.000webhostapp.com/service.html)", unsafe_allow_html=True)
     st.write('Copyright (C) © 2023 by Paguh')
 
 
