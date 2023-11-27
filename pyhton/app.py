@@ -266,7 +266,7 @@ st.pyplot(plt)
 with st.sidebar:
     # Menambahkan logo perusahaan
     from PIL import Image
-	image = Image.open('img/logo.png')
+    image = Image.open('img/logo.png')
     st.image(image)
     st.markdown("[Home](https://sisenduker.000webhostapp.com/)", unsafe_allow_html=True)
     st.markdown("[Lihat Sensus](https://sisenduker.000webhostapp.com/semua.html)", unsafe_allow_html=True)
