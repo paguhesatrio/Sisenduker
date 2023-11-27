@@ -205,7 +205,7 @@ st.pyplot(fig)
 new_df = pd.read_csv('pyhton/data Baru.csv')
 
 #============================================================================================== Perbandingan pendidikan dan pekerjaan   
-st.subheader("Perbandingan Perbandingan antara Pekerjaan dan Pendidikan")
+st.subheader("Perbandingan antara Pekerjaan dan Pendidikan")
 
 def bayarSt(df):
     bayarSt = df.groupby(["Pendidikan", "Pekerjaan"]) ["Pekerjaan"].size().reset_index(name='Jumlah')
@@ -233,7 +233,7 @@ st.pyplot(plt)
 #============================================================================================== Perbandingan pendidikan dan pekerjaan   
 
 #============================================================================================== Perbandingan Umur dan pekerjaan
-st.subheader("Perbandingan pekerjaan dan Umur")
+st.subheader("Perbandingan antara Pekerjaan dan Umur")
 
 def bayarSt(df):
     bayarSt = df.groupby(["Umur", "Pekerjaan"]) ["Pekerjaan"].size().reset_index(name='Jumlah')
