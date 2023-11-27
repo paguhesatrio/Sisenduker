@@ -484,33 +484,10 @@ body.mobile-nav-active #mobile-nav-toggle {
     text-align: center;
 }
 
-.banner .banner-box rt {
-    display: inline-block;
-    padding: 10px 20px;
-    padding-left: 5px;
-    border: 1px solid #ffffff;
-}
-
-.banner .banner-box rt a {
-    color: #ffffff;
-}
-
-.banner .banner-box rt a:hover {
-    color: #1dbf73;
-}
-
-.banner-box rt a:nth-child(-n+4) {
-    padding-right: 15px;
-    border-right: 1px solid #ffffff;
-}
-
-.banner-box rt a:nth-child(-n+5) {
-    padding-left: 15px;
-}
-
 .banner .banner-box {
     display: inline-block;
     padding: 10px 20px;
+    padding-left: 5px;
     border: 1px solid #ffffff;
 }
 
@@ -522,15 +499,14 @@ body.mobile-nav-active #mobile-nav-toggle {
     color: #1dbf73;
 }
 
-.banner .banner-box a:first-child {
+.banner .banner-box a:nth-child(-n+4) {
     padding-right: 15px;
     border-right: 1px solid #ffffff;
 }
 
-.banner .banner-box a:last-child{
+.banner .banner-box a:nth-child(-n+5) {
     padding-left: 15px;
 }
-
 
 /* ------------- Section Header Style -------------- */
 .section-header {
