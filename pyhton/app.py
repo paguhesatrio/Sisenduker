@@ -221,7 +221,7 @@ bayarSt_df = bayarSt_df.sort_values(by='Jumlah', ascending=False)
 plt.figure(figsize=(16, 8))
 sns.barplot(x='Pekerjaan', y='Jumlah', hue='Pendidikan', data=bayarSt_df)
 
-plt.title("Grafik Pembayaran di Setiap Pendidikan dan Pekerjaan", fontsize=15)
+plt.title("Grafik Perbandingan antara Pendidikan dan Pekerjaan", fontsize=15)
 plt.ylabel("Jumlah")
 plt.xlabel("Pekerjaan")
 plt.xticks(fontsize=10)
