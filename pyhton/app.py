@@ -5,6 +5,8 @@ import seaborn as sns
 import streamlit as st
 from babel.numbers import format_currency
 from io import BytesIO
+from PIL import Image
+
 sns.set(style='dark')
 
 all_df = pd.read_csv('pyhton/Semua Data.csv')
@@ -263,7 +265,9 @@ st.pyplot(plt)
 
 with st.sidebar:
     # Menambahkan logo perusahaan
-    st.image("img/logo.png")
+    from PIL import Image
+	image = Image.open('img/logo.png')
+    st.image(image)
     st.markdown("[Home](https://sisenduker.000webhostapp.com/)", unsafe_allow_html=True)
     st.markdown("[Lihat Sensus](https://sisenduker.000webhostapp.com/semua.html)", unsafe_allow_html=True)
     st.markdown("[Analisis](https://sisenduker.streamlit.app/)", unsafe_allow_html=True)
