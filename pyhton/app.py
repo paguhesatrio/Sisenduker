@@ -263,7 +263,7 @@ st.pyplot(plt)
 
 with st.sidebar:
     # Menambahkan logo perusahaan
-    st.image("[https://sisenduker.000webhostapp.com/img/logo.png](https://sisenduker.000webhostapp.com)", unsafe_allow_html=True)
+    st.image("[img/logo.png](https://sisenduker.000webhostapp.com)", unsafe_allow_html=True)
     st.markdown("[Home](https://sisenduker.000webhostapp.com/)", unsafe_allow_html=True)
     st.markdown("[Lihat Sensus](https://sisenduker.000webhostapp.com/semua.html)", unsafe_allow_html=True)
     st.markdown("[Analisis](https://sisenduker.streamlit.app/)", unsafe_allow_html=True)
