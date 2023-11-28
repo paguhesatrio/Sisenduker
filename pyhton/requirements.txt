@@ -5,3 +5,6 @@ pandas
 seaborn
 streamlit
 Pillow
+click
+requests
+scikit-learn
