@@ -69,3 +69,16 @@ if st.button('Lihat Hasil Prediksi'):
   else:
       st.warning(f'Tidak ada gambar yang tersedia untuk pekerjaan: {prediction[0]}')
 
+
+with st.sidebar:
+    # Menambahkan logo perusahaan
+    from PIL import Image
+    image = Image.open('img/logo.png')
+    st.image(image)
+    st.markdown("[Home](https://sisenduker.000webhostapp.com/)", unsafe_allow_html=True)
+    st.markdown("[Lihat Sensus](https://sisenduker.000webhostapp.com/semua.html)", unsafe_allow_html=True)
+    st.markdown("[Analisis](https://sisenduker.streamlit.app/)", unsafe_allow_html=True)
+    st.markdown("[Prediksi]( )", unsafe_allow_html=True)
+    st.markdown("[Galeri](https://sisenduker.000webhostapp.com/galeri.html)", unsafe_allow_html=True)
+    st.markdown("[Tentang Kami](https://sisenduker.000webhostapp.com/service.html)", unsafe_allow_html=True)
+    st.write('Copyright (C) © 2023 by Paguh')
