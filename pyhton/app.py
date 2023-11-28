@@ -271,7 +271,7 @@ with st.sidebar:
     st.markdown("[Home](https://sisenduker.000webhostapp.com/)", unsafe_allow_html=True)
     st.markdown("[Lihat Sensus](https://sisenduker.000webhostapp.com/semua.html)", unsafe_allow_html=True)
     st.markdown("[Analisis](https://sisenduker.streamlit.app/)", unsafe_allow_html=True)
-    st.markdown("[Prediksi]( )", unsafe_allow_html=True)
+    st.markdown("[Prediksi]( https://sisenduker-prediksi.streamlit.app/)", unsafe_allow_html=True)
     st.markdown("[Galeri](https://sisenduker.000webhostapp.com/galeri.html)", unsafe_allow_html=True)
     st.markdown("[Tentang Kami](https://sisenduker.000webhostapp.com/service.html)", unsafe_allow_html=True)
     st.write('Copyright (C) © 2023 by Paguh')
