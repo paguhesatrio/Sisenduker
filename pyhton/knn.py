@@ -6,7 +6,7 @@ from PIL import Image
 from io import BytesIO
 
 # Load the pre-trained k-Nearest Neighbors model
-nama_file = '/content/data encodning.xlsx'
+nama_file = '/pyhton/data encodning.xlsx'
 data = pd.read_excel(nama_file)
 x = data[['Umur', 'Jenis Kelamin', 'Pendidikan']]
 y = data['Pekerjaan']
