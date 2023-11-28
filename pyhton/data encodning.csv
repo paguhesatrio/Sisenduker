@@ -1,0 +1,131 @@
+No,Nama KK,Umur,Jenis Kelamin,Pendidikan,Pekerjaan
+1,Suripto,3,2,1,Petani
+2,Suradi,3,1,1,Petani
+3,Sukino,2,1,1,Lain-Lain
+4,Ramlan,3,1,2,Wirausaha
+5,Rudi,3,1,1,Petani
+6,Sastro,4,1,1,Petani
+7,Tresna,2,2,3,Lain-Lain
+8,Nyoto,3,1,2,Petani
+9,Fx. Suyatno,3,1,2,PNS
+10,Winarno,3,1,3,Wirausaha
+11,Mardilah,3,1,1,Lain-Lain
+12,Hendarto,3,2,1,Wirausaha
+13,safari,3,2,1,Petani
+14,Ahmad,3,1,2,Wirausaha
+15,muji,3,1,1,Petani
+16,Romi,3,2,3,Wirausaha
+17,rudi,3,1,3,Wirausaha
+18,sukirno,4,1,2,Petani
+19,Feri,2,1,2,Wirausaha
+20,wartinah,3,2,3,Petani
+21,sigit,3,2,3,Wirausaha
+22,edi purwanto,3,1,1,Petani
+23,ibu sumarti,3,1,1,Petani
+24,Miskamto,2,2,1,Petani
+25,Kiki,3,1,1,Buruh
+26,Solikhol,3,2,2,Buruh
+27,sutiman,4,1,2,PNS
+28,somadi,3,1,1,Petani
+29,Hudan,3,2,3,Wirausaha
+30,Rasiem,3,2,1,Petani
+31,sugiem,4,2,1,Petani
+32,mulyono,3,1,3,Wirausaha
+33,budi,3,2,3,Wirausaha
+34,tugimin,4,1,1,Petani
+35,wardi,3,2,3,Wirausaha
+36,subiyanto,3,1,2,Lain-Lain
+37,warsono,3,1,1,Petani
+38,ardayanto,3,1,2,Wirausaha
+39,diki,3,1,3,Wirausaha
+40,bambang,3,1,4,Lain-Lain
+41,sukarso,3,2,2,Petani
+42,Sigit,3,2,4,Lain-Lain
+43,Suyaman,3,1,3,Petani
+44,sukiran,4,1,1,PNS
+45,Rudiyanto,3,2,3,Buruh
+46,suminem,3,1,1,Petani
+47,Ngatilah,3,1,2,Petani
+48,Hadi Suprapto,2,2,1,Petani
+49,Sutini,4,2,1,Lain-Lain
+50,Budiyana,3,1,3,Petani
+51,Paryanto,3,2,3,Petani
+52,Murwanto,3,1,2,Petani
+53,Sukinem,4,2,1,Petani
+54,Dadi Sarsono,4,1,2,Lain-Lain
+55,Sumirah,4,1,1,Petani
+56,Rizky Sudarmi,3,1,2,Buruh
+57,Agung Priyanto,3,1,3,Petani
+58,Rubiyantoro,3,1,3,Petani
+59,Nuvikari,1,2,2,Buruh
+60,Endang Suparmi,4,2,1,Petani
+61,Subandi,2,1,3,Lain-Lain
+62,Suyono,3,2,2,Petani
+63,Slamet,3,1,2,Petani
+64,Hartono,4,1,2,Petani
+65,Sumarji,4,1,1,Petani
+66,Sumarso,4,1,1,Petani
+67,Siska,3,1,2,Lain-Lain
+68,suyati,3,1,1,Petani
+69,Sri Astuti,2,2,1,Petani
+70,Kartosuwito,4,1,1,Petani
+71,Barni,2,2,1,Petani
+72,Marmin,3,1,2,Petani
+73,Supartini,4,2,3,PNS
+74,Supriyadi,3,2,1,Petani
+75,Jumadi Abdulah,3,1,2,Petani
+76,MArgono,3,1,2,Petani
+77,Tugiyarno,4,1,1,Petani
+78,Siswanto,3,1,1,Petani
+79,Afian,3,1,3,PNS
+80,Heri Sutrisno,3,1,3,Lain-Lain
+81,carito,3,1,3,Petani
+82,supadi,3,2,1,Petani
+83,pak,3,1,3,Buruh
+84,Lasiem,4,1,1,PNS
+85,Widodo,3,1,2,Lain-Lain
+86,Hadi Sutrisno,4,2,1,Petani
+87,Ibu Sukini,4,2,1,Petani
+88,Suminem,4,2,1,Petani
+89,Ibu Tukinah,4,2,1,Petani
+90,Ibu Tumiyati,4,2,2,Lain-Lain
+91,Lugiyati,4,2,1,Petani
+92,Ngatinah,4,2,1,Petani
+93,suraji,4,1,1,Petani
+94,sumarti,3,1,4,PNS
+95,Sukrisno,3,1,3,Petani
+96,wiyono,4,1,1,Petani
+97,paryadi,4,2,2,Petani
+98,tugiman,2,1,2,Petani
+99,pujiyanto,3,2,2,Petani
+100,wahyudi antoro,1,2,2,Petani
+101,sugiarjo,4,1,1,Petani
+102,hartono,3,1,2,Petani
+103,ngatini,3,1,2,Petani
+104,sukartoyo,4,1,1,Petani
+105,marnorejo,4,1,1,Petani
+106,lastini,2,2,2,Petani
+107,wasinah,4,2,1,Petani
+108,sri setiti,3,2,3,Buruh
+109,aldia destian,3,1,4,Wirausaha
+110,suhartoyo,3,1,4,Lain-Lain
+111,nanang triyanto,3,1,4,Wirausaha
+112,sriyanto,3,1,3,Petani
+113,Suripto,3,1,1,Petani
+114,Sulardi,4,1,1,Buruh
+115,Sukamto,3,1,1,Petani
+116,Nanang Maulana,3,2,3,Petani
+117,Fendi Triyanto,3,1,3,Buruh
+118,Susilo,2,1,1,Petani
+119,sukardi,3,1,1,Buruh
+120,suyadi,3,1,1,Petani
+121,Dwi Bayu P,2,2,2,Buruh
+122,Agung Prasetyo,3,2,3,Buruh
+123,samtohadi,4,1,1,Petani
+124,marjono,3,1,1,Petani
+125,R. Lesmono Putro,3,1,3,Lain-Lain
+126,sakiyo,4,1,1,Petani
+127,sagiyo,4,1,2,Buruh
+128,sugimin,4,1,1,Petani
+129,Warsilah,4,2,2,Petani
+130,suyatno,3,1,3,Lain-Lain
